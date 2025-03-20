@@ -1,2 +1,2 @@
 # calculadora
- uma calculadora simples
+ uma calculadora simples.
